@@ -1,1 +1,12 @@
+For numbering of the requirements use a model like "requirement_1.2.3"
+where the first digit is the requirement type, the second and third are
+the requirement itself and any other relevant criteria that may be important
+to always keep in mind and then a new column should be made for it.
+
+The requirement type is meant to separate the requirements into
+groups that can be researched, explored, and tested independently from each other.
+This can help when segregating the work between team members and easier planning.
+Other classification methods are allowed, so long as they are clear and explained.
+
+
 
