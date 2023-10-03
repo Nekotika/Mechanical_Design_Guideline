@@ -1,3 +1,9 @@
+Any supplementary information on the requirements can be added to this
+folder, but they must also be removed from future versions, if no longer relevant.
+Each version or iteration is to be split as a separate branch and eventually
+merged back if the decisions made are final. A new branch can be split
+after the new versions of the documents are approved.
+
 For numbering of the requirements use a model like "requirement_1.2.3"
 where the first digit is the requirement type, the second and third are
 the requirement itself and any other relevant criteria that may be important
@@ -8,5 +14,24 @@ groups that can be researched, explored, and tested independently from each othe
 This can help when segregating the work between team members and easier planning.
 Other classification methods are allowed, so long as they are clear and explained.
 
+The Range/Tolerance column is the most important one and if it is dependent on other factors,
+that must be explained in a separate column. If these factors are controllable (like
+temperature for example), they can instead be specified in a new requirement. In that case,
+the working range for this factor must be known, or a number of values can be listed
+and tested individually.
 
+The Significance and Difficulty column are to help give a proper impression on the reader.
+It is recommended to use 3 or 5 colors for grading each requirement independently (not
+in comparison with each other). The ETA is another easy way to convey the importance
+and resources needed for each requirement.
+The information in these 3 columns can vary between versions, as new challenges are uncovered.
+
+The Progress column is meant for a quick recap of the changes in requirements or conditions,
+from the last iteration. Often there are changes to methodology and approach, due to
+unexpected or underestimated circumstances. This column is the binding between those changes,
+which must shortly explain the reason for the change and link relevant information or research.
+
+The link back column provides a connection to the previous version of this requirement
+in a previous branch of the repository. The requirement numbers must be consistent to 
+avoid confusion.
 
