@@ -1,1 +1,8 @@
+Prototyping can be documented in one long Word file,
+if progress is clear and expectations are fulfilled.
 
+If there are frequent changes to the circumstances or
+requirements, it is allowed to use multiple files for
+different ideas or to express different stages in development.
+Nevertheless, the current branch must always contain information
+about the previous attempts.
