@@ -1,1 +1,16 @@
+After a mock model or a prototype is made,
+it is essential to draft a test plan.
 
+The test plan must be exhaustive and conclusive.
+The simplest way to make it is to base it entirely on
+the requirements. Depending on their complexity, the entire
+file with the requirements can be used, with testing information
+added as an explanation or a sequence of steps.
+However, for future prototypes, newer versions of the test plan
+will be needed and they must be based on the initial test plan,
+not on the new requirements. The changes between the prototypes
+must then be explained, or linked back to the requirements file.
+
+If more explanations are necessary, the format of the test plan
+can be a text document with images or a presentation, but it must
+stay consistent for the duration of the project.
