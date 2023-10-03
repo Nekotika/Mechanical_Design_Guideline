@@ -1,1 +1,15 @@
+The progress report is a key for the project documentation
+and can be referred to in the requirements and testing files,
+to justify and explain changes in design or approach.
 
+Depending on the project, a progress report may be required
+every week, to give a clear summary of the completed work.
+If there are a lot of details that all deserve attention,
+a progress file can be made in each major folder, tracking
+the discoveries and changes to the requirements and testing,
+or even just one specific activity.
+
+Technical details must be introduced to the reader with an
+image from 3D CAD software, or simply a sketch. Anyone in the
+company should be able to understand the premise and thought
+process behind the preparations and decisions made.
